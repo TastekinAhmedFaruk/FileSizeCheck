@@ -1,3 +1,3 @@
-# FileSizeCheck
+# FileWatch Sentry
 
-This application is an application that calculates the size of the files in the specified file path, sends e-mails depending on the situation, and logs the transactions it has made.
+This software application is designed to perform several essential functions, including the computation of file sizes within a designated file path, the automated dispatch of email notifications based on specific conditions, and the meticulous recording of all executed transactions.
